@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentEnrollment {
+public class StudentEnrollment { //Class name
     public static void main(String[] args) {
         //Input the needed information
         Scanner input = new Scanner(System.in);
